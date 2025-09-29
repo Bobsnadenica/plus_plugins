@@ -1,3 +1,5 @@
+namespace "dev.fluttercommunity.plus.androidintent"
+
 group 'dev.fluttercommunity.plus.androidintent'
 version '1.0-SNAPSHOT'
 
